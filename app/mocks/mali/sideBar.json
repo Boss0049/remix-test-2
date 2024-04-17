@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "id": 1,
+            "name": "Inbox",
+            "count": 128,
+            "icon": "Inbox"
+        },
+        {
+            "id": 2,
+            "name": "Drafts",
+            "count": 9,
+            "icon": "StickyNote"
+        },
+        {
+            "id": 3,
+            "name": "Sent",
+            "count": 0,
+            "icon": "Send"
+        },
+        {
+            "id": 4,
+            "name": "Junk",
+            "count": 23,
+            "icon": "ArchiveX"
+        },
+        {
+            "id": 5,
+            "name": "Trash",
+            "count": 0,
+            "icon": "Trash2"
+        },
+        {
+            "id": 6,
+            "name": "Archive",
+            "count": 0,
+            "icon": "Archive"
+        }
+    ],
+    [
+        {
+            "id": 1,
+            "name": "Social",
+            "count": 972,
+            "icon": "Users2"
+        },
+        {
+            "id": 2,
+            "name": "Updates",
+            "count": 342,
+            "icon": "AlertCircle"
+        },
+        {
+            "id": 3,
+            "name": "Forums",
+            "count": 128,
+            "icon": "MessagesSquare"
+        },
+        {
+            "id": 4,
+            "name": "Shopping",
+            "count": 8,
+            "icon": "ShoppingCart"
+        },
+        {
+            "id": 5,
+            "name": "Promotions",
+            "count": 0,
+            "icon": "Archive"
+        }
+    ]
+]
